@@ -1,1 +1,1 @@
-# school-project
+# https://rendenson.github.io/school-project/
